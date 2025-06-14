@@ -11,12 +11,11 @@
 
 ---
 
-### 🚀 Tech Stack:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,github" height="50" />
+</p>
 
 ---
 
@@ -36,8 +35,8 @@
 ---
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/resna-rahmawati-9521b9329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/onlyrsnaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/resna-rahmawati-9521b9329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/onlyrsnaa)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:resnarahmawati111@gmail.com)
 
 ---
