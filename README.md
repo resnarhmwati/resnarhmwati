@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Hi%20I'm%20Resna%20Rahmawati&fontColor=ffffff&fontSize=40&fontAlignY=40" />
 </p>
 
-## 👋 Hi there, I'm Resna Rahmawati!
+## 👋 Hi there, I'm Resna!
 
 💻 I'm a passionate Web Developer currently learning **React**, **Tailwind CSS**, and building responsive websites.<br>
 🎯 My goal is to build beautiful, accessible, and mobile-friendly web applications.<br>
@@ -35,11 +35,18 @@
 ---
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/resna-rahmawati-9521b9329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/onlyrsnaa)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:resnarahmawati111@gmail.com)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/resna-rahmawati-9521b9329" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/onlyrsnaa" target="_blank" style="margin-left: 10px;">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+  </a>
+</p>
 
 ---
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=150&section=footer"/>
